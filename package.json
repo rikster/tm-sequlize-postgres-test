@@ -1,0 +1,30 @@
+{
+  "name": "tm-sequlize-postgres-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rikster/tm-sequlize-postgres-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rikster/tm-sequlize-postgres-test/issues"
+  },
+  "homepage": "https://github.com/rikster/tm-sequlize-postgres-test#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "pg": "^7.9.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^5.2.11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
